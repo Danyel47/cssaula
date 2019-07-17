@@ -1,0 +1,47 @@
+.Principal{
+    color: rgb(245, 118, 0);
+    background-color: rgb(0, 0, 52 ,0.8);
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 180px;
+    box-shadow: 20px 20px;
+}
+img{
+    border: 30px;
+    border-color: #f5ec42;
+    border-style: solid;
+    border-radius: 50%;
+    max-width: 40%;
+    max-height: 60%;
+    min-width: 20%;
+    min-height: 20%;
+    margin: 0.5%;
+}
+.toranja{
+    border: 30px;
+    border-style: solid;
+    border-color: #5442f5;
+    margin-right: 10%
+}
+body{
+    background-image: url("https://st2.depositphotos.com/1902755/11498/v/950/depositphotos_114981480-stock-illustration-pizza-slices-cartoon-wallpaper.jpg")
+}
+h2{
+    text-align:center;
+    font-family: 'Squada One', cursive;
+    font-size: 50px;
+    color: rgb(240, 0, 0);
+    background-color:rgb(0, 0, 0 ,0.8);
+
+}
+.clica:hover{
+    max-width: 50%;
+    max-height: 60%;
+    min-width: 50%;
+    min-height: 60%;
+    
+}
+
+    
+
+}
